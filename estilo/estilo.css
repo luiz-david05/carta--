@@ -1,0 +1,13 @@
+:root {
+    text-align: center;
+    font-family: cursive;
+    margin: auto;
+    padding: 0;
+}
+#data {
+    margin: auto;
+}
+img {
+    height: 50%;
+    width: 300px;
+}
